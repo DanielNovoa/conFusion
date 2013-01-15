@@ -371,9 +371,11 @@ body {
 }
 #login-menu a {
   text-decoration: none;
+  color: #eee;
 }
 #login-menu a:hover {
   text-decoration: underline;
+  color: #3995fd;
 }
 #banner {
   display: table;

@@ -1,0 +1,9 @@
+/**
+* Description: Sample theme for site which extends the Lydia grid-theme.
+* Here fou can add you own personal styling for your site!
+*/
+@import url(../../../themes/grid/style.css);
+
+/* Your code below */
+html{ }
+body{ }
